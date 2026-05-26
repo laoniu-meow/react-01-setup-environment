@@ -2,13 +2,16 @@
 
 ## Topics
 ```
-1. Install Node.js
+1. Install Node.js (One-time setup)
 2. Setting up a GitHub Account and Configuration in WSL environment / Linux OS
 3. Create Basic App with React + Vite + TranScript 
 4. Commit the repository to GitHub
 ```
 
-## Install Node.js
+> Practice Notes
+>> Do not clone this repository locally. Instead, follow the README.md guidelines to practice and understand the concepts, and report any issues to the author.
+
+## Install Node.js (One-time setup)
 Node.js is a runtime that lets you run JavaScript outside the browser
 
 ### Why you need it
