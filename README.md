@@ -1,7 +1,6 @@
 # Setup the Develpment Environment and Create a Startup App
 
 ## Topics
-```
 <ol>
    <li>Install Node.js (One-time setup)</li>
    <li>Setting up a GitHub Account and Configuration in WSL environment / Linux OS</li>
