@@ -12,8 +12,6 @@
 >
 > Do not clone this repository locally. Instead, follow the README.md guidelines to practice and understand the concepts, and report any issues to the author
 
----
-
 ## Install Node.js (One-time setup)
 Node.js is a runtime that lets you run JavaScript outside the browser
 
