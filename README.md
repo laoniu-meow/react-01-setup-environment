@@ -2,11 +2,11 @@
 
 ## Topics
 ```
-<ol type = "1">
-   <li> Install Node.js (One-time setup)</li>
-   <li> Setting up a GitHub Account and Configuration in WSL environment / Linux OS</li>
-   <li> Create Basic App with React + Vite + TranScript</li> 
-   <li> Commit the repository to GitHub</li>
+<ol>
+   <li>Install Node.js (One-time setup)</li>
+   <li>Setting up a GitHub Account and Configuration in WSL environment / Linux OS</li>
+   <li>Create Basic App with React + Vite + TranScript</li> 
+   <li>Commit the repository to GitHub</li>
 </ol>
 
 > Learning notes:
